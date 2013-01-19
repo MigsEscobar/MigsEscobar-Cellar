@@ -1,0 +1,7 @@
+Assignment 3
+
+Add and display an additional property to each bottle of wine - "pairs with" for example. 
+Add two new bottles of wine
+Implement the bootcamp css framework on the temaple
+Push your final copy to github
+Email the github URL to bcit.webtech@gmail.com
